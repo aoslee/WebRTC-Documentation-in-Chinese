@@ -1,6 +1,4 @@
-## [4.6 会话描述模型](http://w3c.github.io/webrtc-pc/#session-description-model)
-
-### 4.6.1 `RTCSdpType` 枚举
+### [4.6.1 RTCSdpType](https://w3c.github.io/webrtc-pc/#rtcsdptype)
 
 RTCSdpType 枚举描述了RTCSessionDescriptionInit或RTCSessionDescription实例的类型。
 

@@ -1,5 +1,4 @@
-## [4.8 连接建立接口](http://w3c.github.io/webrtc-pc/#interfaces-for-connectivity-establishment)
-### 4.8.1 RTCIceCandidate接口
+### [4.8.1 RTCIceCandidate接口](https://w3c.github.io/webrtc-pc/#rtcicecandidate-interface)
 
 该接口描述了ICE候选人，在[ICE]第2节中描述。除了`candidate`，`sdpMid`，`sdpMLineIndex`和`usernameFragment`之外，其余属性解析来自于`candidateInitDict`中的`candidate`成员，如果它是格式良好的。
 

@@ -1,7 +1,3 @@
-# 11 错误处理
-
-某些操作抛出或引起`RTCError`。这是`DOMException`的扩展，包含了额外的WebRTC信息。
-
 ## 11.1 `RTCError`接口
 
 ```java

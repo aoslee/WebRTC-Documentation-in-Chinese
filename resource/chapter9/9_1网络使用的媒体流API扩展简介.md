@@ -1,5 +1,3 @@
-# 9 网络用途的媒体流API扩展
-
 ## 9.1 简介
 
 `MediaStreamTrack`接口（如[GETUSERMEDIA]规范中所定义）通常表示音频或视频的数据流。可以在`MediaStream`中收集一个或多个`MediaStreamTracks`（严格来说，[GETUSERMEDIA]中定义的`MediaStream`可能包含零个或多个`MediaStreamTrack`对象）。

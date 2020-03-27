@@ -1,4 +1,3 @@
-## 4.2配置
 ### [4.2.1 RTCConfiguration字典](http://w3c.github.io/webrtc-pc/#rtcconfiguration-dictionary)
 
 RTCConfiguration定义了一组参数，用于配置 RTCPeerConnection 如何建立或重新建立点对点通信。

@@ -1,4 +1,4 @@
-3. Terminology zh:[3.术语](http://w3c.github.io/webrtc-pc/#terminology)
+#[3.术语](http://w3c.github.io/webrtc-pc/#terminology)
 
 The EventHandler interface, representing a callback used for event handlers, and the ErrorEvent interface are defined in [HTML51].
 
